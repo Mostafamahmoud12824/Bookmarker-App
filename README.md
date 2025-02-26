@@ -23,7 +23,7 @@ Bookmarker is a simple web application that allows users to save, visit, and del
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/bookmarker.git
+   https://github.com/Mostafamahmoud12824/Bookmarker-App.git
    ```
 2. Navigate to the project folder:
    ```sh
